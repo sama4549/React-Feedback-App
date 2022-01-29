@@ -22,7 +22,7 @@ Header.defaultProps = {
 }
 
 Header.propTypes = {
-  test: PropTypes.string,
+  text: PropTypes.string,
   bgColor: PropTypes.string,
   textColor: PropTypes.string,
 }
